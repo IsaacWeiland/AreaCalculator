@@ -1,0 +1,14 @@
+C:\Users\0ni\Desktop\repos\AreaMath\AreaMath\bin\Debug\net7.0\AreaMath.exe
+C:\Users\0ni\Desktop\repos\AreaMath\AreaMath\bin\Debug\net7.0\AreaMath.deps.json
+C:\Users\0ni\Desktop\repos\AreaMath\AreaMath\bin\Debug\net7.0\AreaMath.runtimeconfig.json
+C:\Users\0ni\Desktop\repos\AreaMath\AreaMath\bin\Debug\net7.0\AreaMath.dll
+C:\Users\0ni\Desktop\repos\AreaMath\AreaMath\bin\Debug\net7.0\AreaMath.pdb
+C:\Users\0ni\Desktop\repos\AreaMath\AreaMath\obj\Debug\net7.0\AreaMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0ni\Desktop\repos\AreaMath\AreaMath\obj\Debug\net7.0\AreaMath.AssemblyInfoInputs.cache
+C:\Users\0ni\Desktop\repos\AreaMath\AreaMath\obj\Debug\net7.0\AreaMath.AssemblyInfo.cs
+C:\Users\0ni\Desktop\repos\AreaMath\AreaMath\obj\Debug\net7.0\AreaMath.csproj.CoreCompileInputs.cache
+C:\Users\0ni\Desktop\repos\AreaMath\AreaMath\obj\Debug\net7.0\AreaMath.dll
+C:\Users\0ni\Desktop\repos\AreaMath\AreaMath\obj\Debug\net7.0\refint\AreaMath.dll
+C:\Users\0ni\Desktop\repos\AreaMath\AreaMath\obj\Debug\net7.0\AreaMath.pdb
+C:\Users\0ni\Desktop\repos\AreaMath\AreaMath\obj\Debug\net7.0\AreaMath.genruntimeconfig.cache
+C:\Users\0ni\Desktop\repos\AreaMath\AreaMath\obj\Debug\net7.0\ref\AreaMath.dll
